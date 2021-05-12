@@ -148,7 +148,7 @@ class Signup extends Component {
                     <div className="text-center col-md-12 form-group">
                         <p>Already a user?</p>
                         <span>
-                            <Link to="/login/form">Login</Link>
+                            <Link to="/">Login</Link>
                         </span>
                     </div>
                 </div>
